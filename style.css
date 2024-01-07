@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;
+}
+p{
+    color: beige;
+    font-style: italic;
+    font: bold;
+}
+#btn{
+    color: aquamarine;
+}
